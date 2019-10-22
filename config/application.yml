@@ -1,0 +1,20 @@
+# Add configuration values here, as shown below.
+#
+# pusher_app_id: "2954"
+# pusher_key: 7381a978f7dd7f9a1117
+# pusher_secret: abdc3b896a0ffb85d373
+# stripe_api_key: sk_test_2J0l093xOyW72XUYJHE4Dv2r
+# stripe_publishable_key: pk_test_ro9jV5SNwGb1yYlQfzG17LHK
+#
+# production:
+#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
+#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
+
+
+AWS_ACCESS_KEY: "AKIA2RZL2DUH63TXXIE5"
+AWS_SECRET_KEY: "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"
+AWS_BUCKET: "wu-flixter-img"
+AWS_REGION: "us-east-1"
+
+SECRET_KEY: 'sk_test_zVbHbfA2UXY3nRBtKRlkm2eG00xIag4gKU'
+PUBLISHABLE_KEY: 'pk_test_OOAtuhcjdRutpz3ULtGAJ6c100wgJoadgD'
